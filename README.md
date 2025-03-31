@@ -2,11 +2,7 @@
 
 # Mikewang6700
 
-<p align="center">
-    <a href="#">
-        <img src="[header](https://github.com/mikewang6700/mikewang6700/blob/main/header.png)">
-    </a>
-</p>
+![img]https://github.com/mikewang6700/mikewang6700/blob/main/header.png
 
 <h2 align="center">You can reach me at</h2>
 
