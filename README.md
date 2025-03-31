@@ -2,7 +2,7 @@
 
 # Mikewang6700
 
-![img]/header.png
+![img](/header.png)
 
 <h2 align="center">You can reach me at</h2>
 
