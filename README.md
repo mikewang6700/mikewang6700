@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BBE8F7&width=435&lines=Coding+to+make+a+difference)](https://git.io/typing-svg)
 # Mikewang6700
 
 ![img](/header.png)
