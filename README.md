@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BBE8F7&width=435&lines=Coding+to+make+a+difference)](https://git.io/typing-svg)
-![img](/header.png)
+<center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BBE8F7&width=435&lines=Coding+to+make+a+difference)](https://git.io/typing-svg)</center>
+<center>![img](/header.png)</center>
 
 <h2 align="center">You can reach me at</h2>
 
@@ -10,8 +10,8 @@
     </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikewang6700)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikewang6700&theme=react)
+<center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikewang6700)](https://github.com/anuraghazra/github-readme-stats)</center>
+<center>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikewang6700&theme=react)</center>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikewang6700&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikewang6700&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikewang6700&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikewang6700&theme=react&utcOffset=8)
+<center>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikewang6700&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikewang6700&theme=react)</center>
+<center>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikewang6700&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikewang6700&theme=react&utcOffset=8)</center>
