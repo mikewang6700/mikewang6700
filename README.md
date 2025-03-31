@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="header">
+        <img src="[header](https://github.com/mikewang6700/mikewang6700/blob/main/header.png)">
     </a>
 </p>
 
