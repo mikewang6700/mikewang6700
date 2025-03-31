@@ -14,7 +14,7 @@ jobs:
       - uses: mikewang6700/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.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 }}
-          USERNAME: ${{ mikewang6700 }}
+          USERNAME: ${{ github.mikewang6700 }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
