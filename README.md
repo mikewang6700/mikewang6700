@@ -6,6 +6,6 @@
 
 <p align="center">
     <a href="#">
-        <img src="[https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg](https://github.com/)" alt="Mikewang6700's github homepage" height="30" width="30">
+        <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mikewang6700's github homepage" height="30" width="30">
     </a>
 </p>
