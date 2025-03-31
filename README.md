@@ -1,6 +1,6 @@
 ## Hi there 👋
-<center> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BBE8F7&width=435&lines=Coding+to+make+a+difference)](https://git.io/typing-svg) </center>
-<div align=center> ![img](/header.png)</center> </div>
+ <h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BBE8F7&width=435&lines=Coding+to+make+a+difference)](https://git.io/typing-svg) </h2>
+<h2 align="center"> ![img](/header.png)</center> </h2>
 
 <h2 align="center">You can reach me at</h2>
 
